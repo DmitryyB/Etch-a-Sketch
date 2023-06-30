@@ -71,4 +71,10 @@ button {
         height: 30px;
         font-size: 0.7rem;
     }
+
+    .menu {
+        flex-direction: row;
+        flex: 1 1 auto;
+        gap: 20px;
+    }
 }
